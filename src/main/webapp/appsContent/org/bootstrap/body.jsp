@@ -1,0 +1,1 @@
+Please create a body.jsp for your resource type.
