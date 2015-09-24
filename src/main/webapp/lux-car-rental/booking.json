@@ -1,0 +1,82 @@
+{
+      "jcr:primaryType":"nt:unstructured",
+      "3":{
+         "label":"End Date",
+         "nameAndId":"enddate",
+         "value":"",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "4":{
+         "label":"Start Date",
+         "nameAndId":"startdate",
+         "value":"",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "5":{
+         "nameAndId":":nameHint",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "6":{
+         "nameAndId":":redirect",
+         "value":"/lux-car-rental/my-booking.html",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "7":{
+         "text":"Book Now!",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "buick":{
+         "sling:resourceType":"com/lux-car-rental/booking/buick",
+         "jcr:primaryType":"nt:unstructured",
+         "7":{
+            "action":"/lux-car-rental/my-booking/data/*",
+            "method":"POST",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "10":{
+            "nameAndId":"carname",
+            "value":"Buick Low Rider",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "11":{
+            "nameAndId":"price",
+            "value":"990",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "29":{
+            "value":"Buick Booking",
+            "jcr:primaryType":"nt:unstructured"
+         }
+      },
+      "stingray":{
+         "enddate":"Friday",
+         "carname":"Corvette C2 \"Stingray\"",
+         "startdate":"Today",
+         "sling:resourceType":"com/lux-car-rental/booking/stingray",
+         "price":"700",
+         "jcr:primaryType":"nt:unstructured",
+         "6":{
+            "action":"/lux-car-rental/my-booking/data/*",
+            "method":"POST",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "8":{
+            "value":"Stringray Booking",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "9":{
+            "nameAndId":"carname",
+            "value":"Corvette C2 'Stingray'",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "10":{
+            "nameAndId":"price",
+            "value":"700",
+            "jcr:primaryType":"nt:unstructured"
+         }
+      },
+      "8":{
+         "nameAndId":"username",
+         "jcr:primaryType":"nt:unstructured"
+      }
+   }

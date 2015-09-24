@@ -1,0 +1,46 @@
+{
+      "sling:resourceType":"com/lux-car-rental/cars",
+      "jcr:primaryType":"nt:unstructured",
+      "10":{
+         "src":"https://fbcdn-photos-f-a.akamaihd.net/hphotos-ak-frc3/v/t1.0-0/p180x540/535724_424230747588184_1553107196_n.jpg?oh=e5ab310362f241303c86270a54e01841&oe=56A1C6C4&__gda__=1449371055_bff5d279f6b9fe115b7e76540e03532d",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "11":{
+         "value":"Christians 49er BUICK ROADMASTER CUSTOM LOWRIDER \"FIREBALL\"Top Chop Suicidedoor (Fahrertür öffnet entgegen der Fahrtrichtung)Hydr.Side up- Kofferraum Channeling (Rücklichter/ Antennen/ Scheinwerfer sind im Stahlblech der Karosserie formgebend angedeutet)Tunneling ( Rücklichter/ Antennen/ Scheinwerfer befinden sich in im Stahlblech eingelassenen Tunneln)Stretching (die gesamte Karosse ist um 35 cm gestrecht)Smoothing (Türgriffe/ Embleme/ Zierleisten/ Stoßstangenhalter sind entfernt worden und die gesamte Oberfläche geglättet)Kühlergrill: 1 Million $- Grine (bezieht sich auf das breite Grinsen, nach einem MillionenDollargewinn in LasVegas. Aufwendigster Kühlergrill in den 40er/50er Jahren) Motor Vollchrome (Reihen 8 Zylinder \u201eStraight8\u201c genannt Feuerball 4,5 liter und für damalige Verhältnisse brachiale 135 PS) Getriebe/Diff. ChromeAchsschenkel/Bremstrommel VollchromeMotor-/Innenraumpanele ChromeLackierung: Aubergine/PearlbaseFotorealistic Airbrush \u2013 Pinstripes - GhostflamesExtras: Floorfloodlight (Neonlichter, welche die Fahrbahn ausleuchten)Blackflash-Headlight (Schwarzlicht Stroboskop)Interieur Blackflash usw. (Schwarzlicht Stroboskop Minis)Fogger (Nebelmaschine)Flamethrower (Flammen aus dem Auspuff)Magnet-Dooropener (Fernbedienbare, magnetische Türöffner)4 Pumps Full Hydraulics and Remotecontr. (Fernbedienbare 4fache Fahrzeughydraulik. Hebt und senkt das Fahrzeug in sekunden Bruchteilen)Special Full-SoftLeather intr.Kühlfachdezent.Glasworks ALL WORKS PROFESSIONELLY DONE!",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "12":{
+         "src":"https://scontent-fra3-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/579078_424230830921509_10023381_n.jpg?oh=7fa1d456935cac98b4cb5714ca0b0e7f&oe=56647BCB",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "18":{
+         "value":"7,6L 14:1 compressed , 760HP (Axle) +Nos\n\nThe 1967 Corvette Stingray was the last Corvette of the second generation, and five years of refinements made it the best of the line. Although it was meant to be a redesign year, its intended successor the C3 was found to have some undesirable aerodynamic traits. Duntov demanded more time in the wind tunnel to devise fixes before it went into production.\n\nChanges were again modest: Five smaller front fender vents replaced the three larger ones, and flat-finish rockers sans ribbing conferred a lower, less chunky appearance. New was a single backup light, mounted above the license plate. The previous models' wheel covers gave way to slotted six-inch Rally wheels with chrome beauty rings and lug nuts concealed behind chrome caps. Interior alterations were modest and included revised upholstery, and the handbrake moved from beneath the dash to between the seats. The convertible's optional hardtop was offered with a black vinyl cover, which was a fad among all cars at the time. ",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "19":{
+         "value":"Corvette C2 Coupé \"Stingray\"",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "20":{
+         "value":"Buick Low Rider",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "21":{
+         "href":"/lux-car-rental/booking/stingray.html",
+         "linkText":"Book the Stringray!",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "22":{
+         "href":"/lux-car-rental/booking/buick.html",
+         "linkText":"Book the Buick!",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "23":{
+         "src":"https://scontent-vie1-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/s720x720/994259_635076393170284_680975938_n.jpg?oh=d085f9e437adca3e87361b08f80e183e&oe=56A3729C",
+         "jcr:primaryType":"nt:unstructured"
+      },
+      "24":{
+         "src":"https://scontent-vie1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/s720x720/65528_561743557170235_227489811_n.jpg?oh=3a842fd61de387a5040df7da0e8fb176&oe=56AB3BEE",
+         "jcr:primaryType":"nt:unstructured"
+      }
+   }

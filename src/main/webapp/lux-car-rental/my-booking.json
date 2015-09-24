@@ -1,0 +1,87 @@
+{
+      "sling:resourceType":"com/lux-car-rental/my-booking",
+      "jcr:primaryType":"nt:unstructured",
+      "data":{
+         "jcr:primaryType":"nt:unstructured",
+         "admin":{
+            "enddate":"Tomorrow",
+            "carname":"Corvette C2 'Stingray'",
+            "startdate":"Today",
+            "price":"700",
+            "username":"admin",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "admin_1739240786":{
+            "enddate":"Tomorrow noon",
+            "carname":"Buick Low Rider",
+            "startdate":"Today noon",
+            "price":"990",
+            "username":"admin",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "admin_1632080910":{
+            "enddate":"Tomorrow evening",
+            "carname":"Corvette C2 'Stingray'",
+            "startdate":"Today morning",
+            "price":"700",
+            "username":"admin",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "admin_916229156":{
+            "enddate":"Tomorrow evening",
+            "carname":"Corvette C2 'Stingray'",
+            "startdate":"Today morning",
+            "price":"700",
+            "username":"admin",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "admin_832846088":{
+            "enddate":"Friday evening",
+            "carname":"Corvette C2 'Stingray'",
+            "startdate":"Today noon",
+            "price":"700",
+            "username":"admin",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "admin_975626698":{
+            "enddate":"Sunday evening",
+            "carname":"Corvette C2 'Stingray'",
+            "startdate":"Today evening",
+            "price":"700",
+            "username":"admin",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "admin_1716171116":{
+            "enddate":"Sunday evening",
+            "carname":"Buick Low Rider",
+            "startdate":"Tomorrow morning",
+            "price":"990",
+            "username":"admin",
+            "jcr:primaryType":"nt:unstructured"
+         }
+      },
+      "6":{
+         "jcr:primaryType":"nt:unstructured",
+         "searchPath":"/lux-car-rental/my-booking/data",
+         "startdate":{
+            "colname":"startdate",
+            "colheader":"Start Date",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "enddate":{
+            "colname":"enddate",
+            "colheader":"End Date",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "price":{
+            "colname":"price",
+            "colheader":"Price",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "carname":{
+            "colname":"carname",
+            "colheader":"Car Name",
+            "jcr:primaryType":"nt:unstructured"
+         }
+      }
+   }

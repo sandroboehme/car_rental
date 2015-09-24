@@ -72,7 +72,7 @@
             <Include-Resource>{maven-resources}</Include-Resource>
             <Sling-Initial-Content>
 				SLING-INF/appsContent;ignoreImportProviders:=xml;path:=/apps,
-				SLING-INF/carRental;ignoreImportProviders:=xml;path:=/carRental
+				SLING-INF/lux-car-rental/;ignoreImportProviders:=xml;path:=/lux-car-rental
             </Sling-Initial-Content>
             <Export-Package>
               com.car_rental.website.*;version=${project.version}

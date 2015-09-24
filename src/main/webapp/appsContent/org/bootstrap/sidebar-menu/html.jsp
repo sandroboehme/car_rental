@@ -9,7 +9,10 @@
 	<div id="cms_0_6_3_2" class="col-xs-12 component-container" data-component-id="2">
 
 
-		<div class="row component" data-component-type="bs-row-12" id="cms_71" data-component-id="7">
+		<div class="row component" data-component-type="bs-row-12" data-component-id="30">
+				
+			</div>
+<div class="row component" data-component-type="bs-row-12" id="cms_71" data-component-id="7">
 			<div class="col-xs-12 component-container" id="cms_72" data-component-id="6">
 
 
@@ -37,12 +40,16 @@
 							<c:out value="${sling:getValue(componentProps,'value','Paragraph Content')}" />
 						</p>
 					</sb:component>
-<img class="component" data-component-type="img" style="max-width: 100%; max-height: 100%;"
-					src="http://images.freeimages.com/images/thumbs/23e/mercedes-1485180.jpg" alt="Mercedes" id="cms_69" data-component-id="4">
+
+
 
 			</div>
 		</div>
-		<h1 class="component" data-component-type="bs-h1" id="cms_67" data-component-id="3">The h1. Bootstrap heading</h1>
+		
+
+
+
+<h1 class="component" data-component-type="bs-h1" id="cms_67" data-component-id="3">The h1. Bootstrap heading</h1>
 
 
 		<h1>Sub-Menu</h1>

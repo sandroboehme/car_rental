@@ -1,0 +1,8 @@
+{
+  "sling:resourceType":"com/lux-car-rental/",
+  "jcr:primaryType":"nt:unstructured",
+  "7":{
+     "value":"Welcome to Luxury Car Rental!",
+     "jcr:primaryType":"nt:unstructured"
+  }
+}

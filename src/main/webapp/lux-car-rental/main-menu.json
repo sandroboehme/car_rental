@@ -1,0 +1,19 @@
+{
+      "sling:resourceType":"com/lux-car-rental/main-menu",
+      "jcr:primaryType":"nt:unstructured",
+      "3":{
+         "brand":"Luxury Car Rental",
+         "homeURL":"/lux-car-rental/home.html",
+         "jcr:primaryType":"nt:unstructured",
+         "1":{
+            "href":"/lux-car-rental/cars.html",
+            "linkText":"Cars",
+            "jcr:primaryType":"nt:unstructured"
+         },
+         "2":{
+            "href":"/lux-car-rental/my-booking.html",
+            "linkText":"My Bookings",
+            "jcr:primaryType":"nt:unstructured"
+         }
+      }
+   }
